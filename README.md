@@ -33,7 +33,7 @@
 
 You can see builds for all branches here [https://travis-ci.org/ibm-developer/generator-ibm-java/branches](https://travis-ci.org/ibm-developer/generator-ibm-java/branches).
 
-This is a yeoman generator that create Java code for users.
+This is a yeoman generator that creates Java code for users.
 
 The generator is published on npm [here](https://www.npmjs.com/package/generator-ibm-java)
 
